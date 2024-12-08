@@ -1,10 +1,9 @@
 {
 "name": "CalCoin",
 "symbol": "CAL",
-"uri": "",
 "seller_fee_basis_points": 150,
-"fee_recipient": "CLdEdaVgbUizaVttM5fqgTeYtatD1QGR32Gitntmsrnf",
+"fee_recipient": "2Pe5BMUCQzDucK5r3G34PYHsyXECPfK5EjKmEmytBw9U",
 "seller_fee_collection_address": "2Pe5BMUCQzDucK5r3G34PYHsyXECPfK5EjKmEmytBw9U",
-"image": "https://github.com/cknecht94/calcoin/blob/3b7df964d5a9a739cec93d51b097895dc0c98d2f/CalCoin.png",
+"image": "https://github.com/cknecht94/calcoin/blob/b28abe9b26cee717a15cc502ae4fbf43f8c604aa/CalCoin%20(2).png",
 "seller_fee_burn_address": null,
 }
